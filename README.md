@@ -133,4 +133,3 @@ Inden fristens udløb skal du aflevere din rapport og filer til dit projekt i et
 **Deadline for aflevering er fredag den 23. august 2024 kl. 14:00.**
 
 God arbejdslyst! 😊
-# Affaldsguiden-Files
