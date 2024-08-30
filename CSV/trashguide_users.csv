@@ -1,5 +1,0 @@
-"id","firstname","lastname","email","password","org_id","refresh_token","is_active","created_at","updated_at"
-1,"Klaus","Bundgaard","info@webudvikler.dk","$2b$10$kmkWoJGjzEFGAq1KCa9HluRZaGiFKR3Vw0zuSCX01DO/5krUw5ZQW",1,"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MDkwMjkwNTMsImRhdGEiOnsiaWQiOjF9LCJpYXQiOjE3MDg5NDI2NTN9.k-2BPBppX0XrmRaPwCJhPOst7CnnvuFVV7rgeoib078",1,"2023-10-11 12:21:31","2024-02-26 10:17:33"
-4,"Theresa","Conn","Hester77@yahoo.com","$2b$10$3M8BWQuL0fdq36dnN.k/DONyBNg9ZdM2Wd5P5vQIGfdQXVgKIf5v6",1,"1234",1,"2024-03-06 19:18:21","2024-03-06 19:18:21"
-5,"Maurine","Marvin","test@test.dk","$2b$10$oMcSvt69GIsAcbRLyiGcu.fpJp.puIkOJbcyZXKU4.oEL3/arSwBq",1,"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MDk4MzkxNTUsImRhdGEiOnsiaWQiOjV9LCJpYXQiOjE3MDk3NTI3NTV9.KkH3iYVut-hEm24gkGFZMfKdj3r5xj6jOTKnBS6OKFA",1,"2024-03-06 19:19:00","2024-03-06 19:19:15"
-6,"Marcelina","Murazik","Sheila.Hamill56@yahoo.com","$2b$10$CKXaCvP5wlQWbPy3ljk1MuLNaJez1MpZfDXCyMosGoCRh1v04bdnO",1,"1234",1,"2024-03-06 19:22:21","2024-03-06 19:22:21"
