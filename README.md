@@ -1,1 +1,9 @@
-https://github.com/Webudvikler-TechCollege/Affaldsguiden-Files.git
+# Filer til svendeprøven MiCasa 
+Her finder du CSV og billedfiler som indgår i svendeprøven MiCasa.
+
+
+
+
+
+
+ 
